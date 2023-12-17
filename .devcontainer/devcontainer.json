@@ -1,0 +1,15 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+	"features": {
+		"ghcr.io/devcontainers/features/nix:1": {
+			"extraNixConfig": "experimental-features = nix-command flakes"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bbenoist.Nix"
+			]
+		}
+	}
+}

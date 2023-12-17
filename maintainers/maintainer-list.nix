@@ -13354,6 +13354,11 @@
     githubId = 49906709;
     name = "Dakota";
   };
+  ohmymndy = {
+    github = "OhMyMndy";
+    githubId = 2277717;
+    name = "Mandy Schoep";
+  };
   oida = {
     email = "oida@posteo.de";
     github = "oida";
